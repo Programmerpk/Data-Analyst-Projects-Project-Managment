@@ -38,12 +38,6 @@ Time Series Trends (2014–2025)
 
 ---
 
-Visual Highlights
-
-![Sales by Category](Smart-Sales-Cops/screenshots/sales-by-category.png)
-![Profit by Region](Smart-Sales-Cops/screenshots/profit-by-region.png)
-
-> Full PDF preview available in this repository: [Smart-Sales-Cops.pdf](Smart-Sales-Cops/Smart-Sales-Cops.pdf)
 
 ---
 
@@ -56,10 +50,9 @@ Skills Demonstrated
 
 ---
 
-### 📥 How to Use
+ How to Use
 To explore the dashboard interactively:
 1. Download the `.pbix/pdf` file.
-2. Open in [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/).
 3. Navigate through pages and slicers for insights.
 
 ---
